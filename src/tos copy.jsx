@@ -224,7 +224,7 @@ const Pp = () => {
 		</p>{" "}
 		<p>
 			If you have any questions or suggestions about my Privacy Policy, do not
-			hesitate to contact me at mrvrota@gmail.com.
+			hesitate to contact me at support@adianit.com.
 		</p>{" "}
 		<p>
 			This privacy policy page was created at{" "}
