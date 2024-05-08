@@ -1,6 +1,6 @@
 import { Routes, Route } from "@solidjs/router";
 import Tos from './tos';
-import Pp from './tos copy';
+import Pp from './pp';
 import Home from './home/Home';
 
 function App() {
